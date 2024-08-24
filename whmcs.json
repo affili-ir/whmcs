@@ -1,0 +1,28 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-addons",
+  "name": "affili",
+  "license": "proprietary",
+  "category": "marketing",
+  "description": {
+    "name": "Affili",
+    "tagline": "Affili Tracking Addon",
+    "long": "Tracking registered purchases and leads from affiliate merketers.",
+    "features": [
+      "Sale Tracking",
+      "Lead Tracking"
+    ]
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "homepage": "https:\/\/affili.ir\/"
+  },
+  "authors": [
+    {
+      "name": "Affili Group",
+      "homepage": "https:\/\/affili.ir\/"
+    }
+  ]
+}
